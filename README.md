@@ -1,5 +1,3 @@
-Tentu, ini adalah README yang menjelaskan kode yang Anda berikan.
-
 # Analisis dan Prediksi Serangan Jantung dengan K-Nearest Neighbor (K-NN)
 
 ## 📌 Pendahuluan
